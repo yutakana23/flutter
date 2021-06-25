@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## アイコンの作成方法
+
+以下の作成サイトに行って作成。
+
+ファイルを展開して、プロジェクトのiosとandroidのファイルと入れ替える。
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
