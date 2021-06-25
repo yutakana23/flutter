@@ -6,6 +6,8 @@ A new Flutter project.
 
 以下の作成サイトに行って作成。
 
+https://appicon.co  
+
 ファイルを展開して、プロジェクトのiosとandroidのファイルと入れ替える。
 
 ## Getting Started
